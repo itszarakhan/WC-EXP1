@@ -1,12 +1,12 @@
 # WC-EXP1
 Experiment 1 - Basic College Website using HTML | Web Computing Lab
 
-A basic HTML website for Anjuman-I-Islam's Kalsekar Technical Campus.
+A basic HTML website for Anjuman-I-Islam's Kalsekar Technical Campus, School of Engineering & Technology.
 
 ## 📋 About
 - Basic college website with homepage, departments, facilities, and contact form
 - Pure HTML implementation
-- Web Technologies Lab - Semester 5
+- Web Computing Lab - Semester 5
 
 ## 🚀 How to View
 1. Download `EXP1.html`
